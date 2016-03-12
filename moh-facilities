@@ -1,0 +1,15 @@
+- facility:
+  names: [Mwanga Health Clinic, Mwanga EPI Store]
+  geometry:
+    type: point
+    coordinates:
+      lat: -3.6608889
+      long: 37.5750446
+
+- facility:
+  names: [Kilimanjaro Christian Medical Center]
+  geometry:
+    type: point
+    coordinates:
+      lat: -3.3284848
+      long: 37.3268723
