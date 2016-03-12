@@ -7,7 +7,7 @@
       long: 37.5750446
 
 - facility:
-  names: [Kilimanjaro Christian Medical Center]
+  names: [Kilimanjaro Christian Medical Center, KCMC]
   geometry:
     type: point
     coordinates:
